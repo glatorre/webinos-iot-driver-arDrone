@@ -1,4 +1,4 @@
-{ "name": "webinos-driver-fake"
+{ "name": "webinos-iot-driver-arDrone"
 , "publishConfig": { "tag": "alpha" }
 , "description": "webinos Driver that exposes the AR drone as an actuator"
 , "keywords": [ "webinos", "drone", "driver"]
@@ -7,7 +7,7 @@
 , "author": "Cornelius Namiluko<corni6x@gmail.com>"
 , "repository":
   { "type": "git"
-  , "url": "https://github.com/nix4/webinos-driver-4-drone.git"
+  , "url": "https://github.com/webinos/webinos-iot-driver-arDrone.git"
   }
 , "bugs":
   { "email": "corni6x@gmail.com"

@@ -1,6 +1,5 @@
-webinos driver 4 drone
+webinos-iot-driver-arDrone
 ======================
 
-A driver that exposes the AR drone as an actuator on a webinos-pzp. 
-
+A driver to control the Parrot ardrone2.0 copter. 
 
