@@ -10,7 +10,7 @@
   , "url": "https://github.com/webinos/webinos-iot-driver-arDrone.git"
   }
 , "bugs":
-  { "email": "corni6x@gmail.com"
+  { "email": "webinos-wp4-ml@fokus.fraunhofer.de"
   , "url": ""
   }
 , "directories": { "lib": "./lib"
